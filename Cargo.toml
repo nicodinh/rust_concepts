@@ -1,0 +1,6 @@
+[package]
+name = "rust_concepts"
+version = "0.1.0"
+authors = ["AZARI Nicolas <nicodinh@azari.fr>"]
+
+[dependencies]
