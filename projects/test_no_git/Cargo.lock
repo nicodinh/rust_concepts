@@ -1,0 +1,4 @@
+[root]
+name = "test_no_git"
+version = "0.1.0"
+

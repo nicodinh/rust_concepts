@@ -1,0 +1,6 @@
+[package]
+name = "test_no_git"
+version = "0.1.0"
+authors = ["Nicolas Azari <nicodinh@azari.fr>"]
+
+[dependencies]
